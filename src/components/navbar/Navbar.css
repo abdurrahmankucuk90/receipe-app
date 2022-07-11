@@ -1,0 +1,33 @@
+
+
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding: 2rem;
+}
+.nav-logo{
+    text-decoration: none;
+}
+.nav ul{
+    display: flex;
+    gap: 3rem;
+    font-size: 3rem;
+}
+.nav img{
+    width: 10rem;
+}
+
+.nav li{
+    list-style: none;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: black;
+}
+
+.receip{
+    color: rgb(25, 143, 228);
+}

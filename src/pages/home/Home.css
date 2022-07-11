@@ -1,0 +1,17 @@
+
+
+form *{
+    font-size: 2rem;
+    padding: .3rem;
+    border: none;
+    border-radius: 5px;
+}
+form button{
+    border: 1px solid black;
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+    border-radius: 5px ;
+}
